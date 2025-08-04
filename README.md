@@ -15,6 +15,11 @@
   - `duration_unit` (min, Season, etc.)
 - Renamed all column headers to lowercase with underscores
 
-## 📁 Files Included:
-[Download the cleaned Netflix dataset](netflix_titles_cleaned.xlsx)
+
+## 📄 Download the Cleaned Netflix Dataset
+
+You can download the cleaned dataset using the link below:
+
+[📥 Download netflix_titles_cleaned.xlsx](./netflix_titles_cleaned.xlsx)
+
 
