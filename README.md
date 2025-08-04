@@ -18,8 +18,10 @@
 
 ## 📄 Download the Cleaned Netflix Dataset
 
-You can download the cleaned dataset using the link below:
 
-[📥 Download netflix_titles_cleaned.xlsx](./netflix_titles_cleaned.xlsx)
+You can download the cleaned dataset directly using the link below:
+
+[📥 Direct Download (netflix_titles_cleaned.xlsx)](https://github.com/bindurag1807/netflix-data-cleaning-task/raw/main/netflix_titles_cleaned.xlsx)
+
 
 
