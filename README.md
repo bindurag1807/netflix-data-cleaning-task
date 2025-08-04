@@ -16,4 +16,5 @@
 - Renamed all column headers to lowercase with underscores
 
 ## 📁 Files Included:
-- `netflix_titles_cleaned.xlsx` – Cleaned dataset
+[Download the cleaned Netflix dataset](netflix_titles_cleaned.xlsx)
+
